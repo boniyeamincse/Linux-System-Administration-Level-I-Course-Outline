@@ -142,3 +142,41 @@ This course provides a comprehensive introduction to Linux system administration
   - Practice: Synchronizing Two Directories securely with rsync
   - Lab: Archiving and Copying Files between Systems
 
+
+## XIII. Installing and Updating Software Packages
+
+- Attaching Systems to Subscription for Software Updates
+  - Practice: Red Hat Subscription Management
+- Practice RPM Software Packages
+- Managing Software Update with yum
+  - Practice: Installing and Updating Software with Yum
+- Enabling Yum software Repositories
+  - Practice: Enabling software Repositories
+- Examining RPM Package files
+  - Practice: Working with RPM package Files
+- Lab: Installing and Updating Software Packages
+
+## XIV. Accessing Linux File Systems
+
+- Identifying file systems and Devices
+  - Practice: Identifying file systems and Devices
+- Mounting and Unmounting File Systems
+- Making Links between Files
+  - Practice: Making Links between Files
+- Locating Files on the System
+  - Practice: Locating Files on the System
+- Lab: Accessing Linux File Systems
+
+## XV. Using Virtualized Systems
+
+- Managing a Local Virtualization Host
+  - Practice: Managing a Local Virtualization Host
+- Installing a new Virtual Machine
+  - Practice: Installing a new Virtual Machine
+- Chapter Test: Using Virtualized Systems
+
+## XVI. Comprehensive Review
+
+- Red Hat System Administration I Comprehensive Review
+- Lab: Comprehensive Review
+
