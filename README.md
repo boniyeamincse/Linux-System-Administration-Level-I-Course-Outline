@@ -52,3 +52,93 @@ This course provides a comprehensive introduction to Linux system administration
 - Editing Text Files with a Graphical Editor
 - Practice: Copying text Between Windows
 - Lab: Creating, Viewing and Editing Text Files
+
+## V. Managing Local Linux Users & Groups
+
+- User & Groups
+  - Practice: User and Group Concepts
+  - Gaining Super user Access
+  - Practice: Running Commands as root
+  - Managing Local user Accounts
+  - Practice: Creating users using Command line Tools
+  - Managing Local Group Accounts
+  - Practice: Managing Groups Using Command line Tools
+  - Managing User Passwords
+  - Practice: Managing User Password Aging
+  - Lab: Managing Local User and Groups
+
+## VI. Controlling Access to files with Linux File system Permissions
+
+- Linux File System Permissions
+  - Practice: Interpreting File and Directory Permission
+  - Managing File system permissions from the command line
+  - Practice: Managing File Security from the Command Line
+  - Managing Default permissions and file Access
+  - Practice: Controlling New File Permissions and ownership
+  - Lab: Controlling Access to files with Linux File System Permissions
+
+## VII. Monitoring and Managing Linux Processes
+
+- Processes
+  - Practice: Processes
+  - Controlling Jobs
+  - Practice: Background and Foreground Processes
+  - Killing Processes
+  - Practice: Killing Processes
+  - Monitoring Process Activity
+  - Practice: Monitoring Process Activity
+  - Lab: Monitoring and Managing Linux processes
+
+## VIII. Controlling Services and Daemons
+
+- Identifying Automatically Started System Processes
+  - Practice: Identify the status of systemd Units
+  - Controlling System Service
+  - Practice: Using systemctl to manage service
+  - Lab: Controlling Services and Daemons
+
+## IX. Configuring and Securing Open SSH Service
+
+- Accessing the Remote Command Line with SSH
+  - Practice: Accessing the Remote Command Line Configuring SSH Key based Authentication
+  - Practice: Using SSH Key based Authentication
+  - Customizing SSH Service Configuration
+  - Practice: Restricting SSH Logins
+  - Lab: Configuring and Securing Open SSH Service
+
+## X. Analyzing and Storing Logs
+
+- System Log Architecture
+  - Practice: System Logging Components
+  - Reviewing Syslog Files
+  - Practice: Finding Log Entries
+  - Reviewing systemd Journal Entries
+  - Practice: Finding Events with Journalctl
+  - Preserving the systemd Journal
+  - Practice: Configure a persistent systemd Journal
+  - Maintaining accurate time
+  - Practice: Adjusting system Time
+
+## XI. Managing Red Hat Enterprise Linux Networking
+
+- Networking Concepts
+  - Practice: Networking Concepts
+  - Validating Network Configuration
+  - Configuring Networking with nmcli
+  - Practice: Configuring Networking with nmcli
+  - Editing Network Configuration Files
+  - Practice: Editing Network Configuration Files
+  - Configuring Host name and Name Resolution
+  - Practice: Configuring Host name and Name Resolution
+  - Lab: Managing Red Hat Enterprise Linux Networking
+
+## XII. Archiving and Copying Files between Systems
+
+- Managing Compressed tar Archives
+  - Practice: Backing Up and Restoring Files From a tar Archive
+  - Copying Files between Systems Securely
+  - Practice: Copying Files over the Network with scp
+  - Synchronizing files Between Systems Securely
+  - Practice: Synchronizing Two Directories securely with rsync
+  - Lab: Archiving and Copying Files between Systems
+
